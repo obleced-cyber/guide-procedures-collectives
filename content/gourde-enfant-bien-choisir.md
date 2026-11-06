@@ -1,6 +1,6 @@
 ---
-title: Gourde enfant : comment bien la choisir
-description: Les critères simples pour choisir une gourde adaptée à un enfant.
+title: "Gourde enfant : comment bien la choisir"
+description: "Les critères simples pour choisir une gourde adaptée à un enfant."
 tags:
   - enfant
   - quotidien
